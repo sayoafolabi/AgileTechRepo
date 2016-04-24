@@ -14,3 +14,19 @@ c:\users\sayo\documents\visual studio 2012\Projects\BDD_Autotrader\BDD_Autotrade
 c:\users\sayo\documents\visual studio 2012\Projects\BDD_Autotrader\BDD_Autotrader\obj\Debug\BDD_Autotrader.pdb
 C:\Users\Sayo\Documents\Visual Studio 2012\Projects\BDD_Autotrader\BDD_Autotrader\bin\Debug\CommonLib.dll
 C:\Users\Sayo\Documents\Visual Studio 2012\Projects\BDD_Autotrader\BDD_Autotrader\bin\Debug\CommonLib.pdb
+C:\Repo\RepoCSharp\BDD_Autotrader\BDD_Autotrader\bin\Debug\chromedriver.exe
+C:\Repo\RepoCSharp\BDD_Autotrader\BDD_Autotrader\bin\Debug\BDD_Autotrader.dll.config
+C:\Repo\RepoCSharp\BDD_Autotrader\BDD_Autotrader\bin\Debug\BDD_Autotrader.dll
+C:\Repo\RepoCSharp\BDD_Autotrader\BDD_Autotrader\bin\Debug\BDD_Autotrader.pdb
+C:\Repo\RepoCSharp\BDD_Autotrader\BDD_Autotrader\bin\Debug\CommonLib.dll
+C:\Repo\RepoCSharp\BDD_Autotrader\BDD_Autotrader\bin\Debug\nunit.framework.dll
+C:\Repo\RepoCSharp\BDD_Autotrader\BDD_Autotrader\bin\Debug\TechTalk.SpecFlow.dll
+C:\Repo\RepoCSharp\BDD_Autotrader\BDD_Autotrader\bin\Debug\WebDriver.dll
+C:\Repo\RepoCSharp\BDD_Autotrader\BDD_Autotrader\bin\Debug\WebDriver.Support.dll
+C:\Repo\RepoCSharp\BDD_Autotrader\BDD_Autotrader\bin\Debug\CommonLib.pdb
+C:\Repo\RepoCSharp\BDD_Autotrader\BDD_Autotrader\bin\Debug\nunit.framework.xml
+C:\Repo\RepoCSharp\BDD_Autotrader\BDD_Autotrader\bin\Debug\WebDriver.xml
+C:\Repo\RepoCSharp\BDD_Autotrader\BDD_Autotrader\bin\Debug\WebDriver.Support.xml
+C:\Repo\RepoCSharp\BDD_Autotrader\BDD_Autotrader\obj\Debug\BDD_Autotrader.csprojResolveAssemblyReference.cache
+C:\Repo\RepoCSharp\BDD_Autotrader\BDD_Autotrader\obj\Debug\BDD_Autotrader.dll
+C:\Repo\RepoCSharp\BDD_Autotrader\BDD_Autotrader\obj\Debug\BDD_Autotrader.pdb
